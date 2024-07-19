@@ -1,0 +1,10 @@
+.env
+runs
+training/tennis-ball-detection-6/tennis-ball-detection-6/valid
+training/tennis-ball-detection-6/tennis-ball-detection-6/train
+training/tennis-ball-detection-6/tennis-ball-detection-6/test 
+runs
+input_videos
+yolov8x.pt
+yolov5_best.pt
+yolov5_last.pt
